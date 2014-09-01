@@ -1,0 +1,4 @@
+{
+    "directory": "src/lib",
+    "proxy":"http://sjc-entbc-001:80"
+}
